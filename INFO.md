@@ -1,4 +1,4 @@
-'new line' ;'fgl;'zdfgl;kvg\lmk;l;dvfl;msdgl;l;mv\dl;\sf;Lv\sl;
+'new line' 
 'experiment with amend' 
 hello world
 
